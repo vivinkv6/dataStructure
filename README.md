@@ -9,12 +9,7 @@ Datastructure is a particular way of organizing data in a computer so that it ca
 ## DataStructure Classification
 
 
-### i)Linear DataStructure
-#### a)Array b)Stack c)Queue d)LinkedList
-
-
-### ii)Non-Linear DataStructure
-#### a)Graph b)Tree
+<img src="https://i0.wp.com/geekspartner.com/wp-content/uploads/2020/12/Classification-of-data-structure.png?resize=843%2C452&ssl=1" height="400" width="600">
 
 
 ## Big O Notation
