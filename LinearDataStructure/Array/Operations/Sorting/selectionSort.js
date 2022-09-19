@@ -29,7 +29,8 @@ const selectionSort=(ar,n)=>{
     print(ar,n);
 }
 
-const arr=[5,4,3,2,1];
+const arr=[5,4,3,2,1];                  
 let n=arr.length;
 
-selectionSort(arr,n);
+selectionSort(arr,n);                                     //Result: 1 2 3 4 5 
+                                                         //Big O notation: O(n^2)
