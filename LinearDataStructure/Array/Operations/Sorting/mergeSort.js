@@ -40,3 +40,7 @@ const merge=(left,right)=>{
 const arr=[5,4,3,2,1];
 
 console.log(mergeSort(arr));
+
+
+//Result: [1,2,3,4,5]
+//Big O notation: O(nlogn)
