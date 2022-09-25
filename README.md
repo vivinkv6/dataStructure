@@ -18,22 +18,22 @@ Big O Notation is a way to measure an algorithm's efficiency. It measures the ti
 <img src="https://www.danielleskosky.com/wp-content/uploads/media-uploads/bigO/complexity-chart.png" height="400" width="600" >
 
 
-# Array
+## Array
 An array is a collection of items of same or different data types stored at contiguous memory locations. 
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/array-2.png" height="150" width="500">
 
-# Linked List
+## Linked List
  Unlike arrays, linked list elements are not stored at a contiguous location; the elements are linked using pointers. They include a series of connected nodes. Here, each node stores the data and the address of the next node.
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/Linkedlist.png" height="150" width="500">
 
-# Stack
+## Stack
 There are many real-life examples of a stack. Consider an example of plates stacked over one another in the canteen. The plate which is at the top is the first one to be removed, i.e. the plate which has been placed at the bottommost position remains in the stack for the longest period of time. So, it can be simply seen to follow LIFO(Last In First Out)/FILO(First In Last Out) order.
 
 <img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/gq/2013/03/stack.png" height="150" width="500">
 
-# Queue
+## Queue
 
 A queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order.<br>
 We define a queue to be a list in which all additions to the list are made at one end, and all deletions from the list are made at the other end.  The element which is first pushed into the order, the operation is first performed on that.
