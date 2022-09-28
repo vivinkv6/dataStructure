@@ -40,3 +40,17 @@ We define a queue to be a list in which all additions to the list are made at on
 
 <img src="https://media.geeksforgeeks.org/wp-content/uploads/20220816162225/Queue.png" height="150" width="500">
 
+
+## Tree
+
+Binary Tree is defined as a Tree data structure with at most 2 children. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
+
+<img src="https://www.geeksforgeeks.org/wp-content/uploads/binary-tree-to-DLL.png" height="200" width="500">
+
+
+## Graph
+
+A Graph is a non-linear data structure consisting of vertices and edges. The vertices are sometimes also referred to as nodes and the edges are lines or arcs that connect any two nodes in the graph. More formally a Graph is composed of a set of vertices( V ) and a set of edges( E ). The graph is denoted by G(E, V).
+
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/undirectedgraph.png" height="200" width="500">
+
